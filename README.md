@@ -1,4 +1,4 @@
-# React + TypeScript + Vite BoilerPlate
+# React + TypeScript + Vite Boilerplate
 
 - eslint
 - prettier
